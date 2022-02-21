@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19043-SP0",
+    "python": "3.9.7",
+    "heartbeatAt": "2022-02-21T11:01:44.644040",
+    "startedAt": "2022-02-21T11:01:35.257922",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\LSY\\AppData\\Roaming\\jupyter\\runtime\\kernel-9e139fc8-a56d-4e98-ba69-e098322250e4.json"
+    ],
+    "state": "running",
+    "program": "Codes/Bearing_Fault_Daiagnosis/Untitled.ipynb",
+    "root": "C:/Users/LSY/Codes/Bearing_Fault_Daiagnosis",
+    "git": {
+        "remote": "https://github.com/EdgeOfNetwork/Bearing_Fault_Daiagnosis.git",
+        "commit": "b9aef84b474f86700a3d30ad1d0294db06388e2e"
+    },
+    "email": null,
+    "host": "LSY",
+    "username": "\uc774\uc11c\uc601",
+    "executable": "C:\\Users\\LSY\\anaconda3\\envs\\tensor_gpu\\python.exe"
+}
