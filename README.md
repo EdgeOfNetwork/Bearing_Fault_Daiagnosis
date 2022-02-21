@@ -9,8 +9,7 @@
 WIP :  
 [] pymSSA 관련 코드 숙지 및 bearing data mSSA에 적용해보기  
 [] Transformer encoder파트만 짜른거 1D 데이터 돌리보기 -> finetune까지 해보기  
-[] 그 automl 머더라... 그걸로 돌려서 fine-tune 대신해보기  
-  
+[] Wandb로 fine-tune 해보기  
 [] encoder를 위한 모듈화 해보기
 [] bearing data에 노이즈 넣어보기(백색 가우시안 노이즈)  
 
