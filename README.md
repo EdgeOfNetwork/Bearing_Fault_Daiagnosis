@@ -13,18 +13,20 @@ WIP :
 [V] Transformer encoder파트만 짜른거 1D 데이터 돌리보기 -> finetune까지 해보기 
 :대강 95%나온다.   
   
-[] bearing data에 노이즈 넣어보기(백색 가우시안 노이즈)    
-[] bearing data를 univariate하게 변형 후 SSA 적용해보기  
-[] SSA 적용된 데이터 시각화 해보기  
-[] denoising 여부 확인해보기  
+[V] bearing data에 노이즈 넣어보기(백색 가우시안 노이즈)    
+[V] bearing data를 univariate하게 변형 후 SSA 적용해보기  
+[V] SSA 적용된 데이터 시각화 해보기  
+[V] denoising 여부 확인해보기  
     
+
+
 [] Wandb로 fine-tune 해보기   
 :우선순위 뒤로 넘기자  
 [] encoder를 위한 모듈화 해보기  
   
 =========================
-[V] 페이퍼 SSA관련 내용 작성    
-[] 트랜스포머 related work 작성  
-
+[V] 페이퍼 SSA관련 내용 작성  (2절)
+[] SSA관련 내용 축소 및 3절에 분해능력 관련 작성 (2~3절)
+[] 트랜스포머 related work 작성  (2절)  
 
 [] mSSA로 multivariate 내용 3절 작성 
